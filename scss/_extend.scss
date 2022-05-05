@@ -1,0 +1,12 @@
+
+li {
+    background-color: rgb(28, 34, 116);
+    text-align: center
+    
+
+}
+
+.parrafo {
+    @extend li;
+    background-color: rgb(160, 153, 95);
+}

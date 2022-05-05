@@ -1,0 +1,34 @@
+/*esto es un comentario de bloque de css PURO*/ 
+
+// import /boostrap-css/boostrap.scss
+@import "colores";
+@import "tipodeletra";
+@import "mixins";
+@import "extend";
+@import "maps";
+
+h1 {
+    text-align: center;
+}
+
+main {
+    background-color: blueviolet;
+    ul {
+        border: 50px;
+        li {
+            list-style: circle;
+            a {
+                text-decoration: solid;
+            }
+        }
+    }
+}
+
+footer {
+    background-color: brown;
+    text-align: center;
+}
+
+
+
+

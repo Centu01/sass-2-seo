@@ -1,0 +1,9 @@
+@mixin alto-ancho ($ancho, $alto) {
+    // fragmento que se imprime
+    width: $ancho;
+    height: $alto;
+}
+
+main {
+    @include alto-ancho (950px, 400px);
+}

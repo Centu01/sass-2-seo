@@ -1,0 +1,23 @@
+@import "colores";
+
+h1 {
+    color: $color1;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+li {
+    color: $color2;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+a {
+    color: $color3;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+footer {
+    p {
+        color: $color4;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+}

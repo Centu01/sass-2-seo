@@ -1,0 +1,70 @@
+/*esto es un comentario de bloque de css PURO*/
+h1 {
+  color: rgb(51, 159, 255);
+  font-family: "Times New Roman", Times, serif;
+}
+
+li, .parrafo {
+  color: rgb(255, 51, 51);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+a {
+  color: rgb(51, 255, 141);
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+footer p {
+  color: rgb(226, 121, 52);
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+main {
+  width: 950px;
+  height: 400px;
+}
+
+li, .parrafo {
+  background-color: rgb(28, 34, 116);
+  text-align: center;
+}
+
+.parrafo {
+  background-color: rgb(160, 153, 95);
+}
+
+.btn--twitter {
+  background-color: #55acee;
+}
+
+.btn--facebook {
+  background-color: #3a5795;
+}
+
+.btn--send-mail {
+  background-color: #C25E30;
+}
+
+h1 {
+  text-align: center;
+}
+
+main {
+  background-color: blueviolet;
+}
+main ul {
+  border: 50px;
+}
+main ul li, main ul .parrafo {
+  list-style: circle;
+}
+main ul li a, main ul .parrafo a {
+  text-decoration: solid;
+}
+
+footer {
+  background-color: brown;
+  text-align: center;
+}
+
+/*# sourceMappingURL=destino.css.map */
